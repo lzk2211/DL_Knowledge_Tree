@@ -2,12 +2,12 @@
 
 ## Quick Look
 
-- [AI Knowledge Framework](#ai-knowledge-framework-图片)
-- [Model Architecture](#model-architecture-图片)
-- [Function Tasks](#function-tasks-图片)
-- [Learning Paradigms](#learning-paradigms-图片)
-- [Learning Mechanism](#learning-mechanism-图片)
-- [Data Scenario](#data-scenario-图片)
+- [AI Knowledge Framework](#ai-knowledge-framework)
+- [Model Architecture](#model-architecture)
+- [Function Tasks](#function-tasks)
+- [Learning Paradigms](#learning-paradigms)
+- [Learning Mechanism](#learning-mechanism)
+- [Data Scenario](#data-scenario)
 
 ---
 
