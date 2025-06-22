@@ -1,47 +1,33 @@
 # Artificial Intelligence Knowledge Framework
 
-<div align="center">
+## Quick Look
 
-<!-- 选项卡按钮 -->
-<button onclick="showTab('ai')">AI Knowledge Framework</button>
-<button onclick="showTab('arch')">Model Architecture</button>
-<button onclick="showTab('func')">Function Tasks</button>
-<button onclick="showTab('paradigm')">Learning Paradigms</button>
-<button onclick="showTab('mechanism')">Learning Mechanism</button>
-<button onclick="showTab('data')">Data Scenario</button>
+- [AI Knowledge Framework](#ai-knowledge-framework-图片)
+- [Model Architecture](#model-architecture-图片)
+- [Function Tasks](#function-tasks-图片)
+- [Learning Paradigms](#learning-paradigms-图片)
+- [Learning Mechanism](#learning-mechanism-图片)
+- [Data Scenario](#data-scenario-图片)
 
-<!-- 图片内容 -->
-<div id="ai" class="tabimg" style="display:block;">
-  <img src="./img/Artificial%20Intelligence(simple).png" width="600"/>
-</div>
-<div id="arch" class="tabimg" style="display:none;">
-  <img src="./img/Model%20Architecture(History).png" width="600"/>
-</div>
-<div id="func" class="tabimg" style="display:none;">
-  <img src="./img/Function%20Tasks.png" width="600"/>
-</div>
-<div id="paradigm" class="tabimg" style="display:none;">
-  <img src="./img/Learning%20Paradigms.png" width="600"/>
-</div>
-<div id="mechanism" class="tabimg" style="display:none;">
-  <img src="./img/Learning%20Mechanism.png" width="600"/>
-</div>
-<div id="data" class="tabimg" style="display:none;">
-  <img src="./img/Data%20Scenario.png" width="600"/>
-</div>
+---
 
-</div>
+### AI Knowledge Framework
+![AI Knowledge Framework](./img/Artificial%20Intelligence(simple).png)
 
-<!-- 切换脚本 -->
-<script>
-function showTab(tabid) {
-  var tabs = document.getElementsByClassName('tabimg');
-  for (var i = 0; i < tabs.length; i++) {
-    tabs[i].style.display = 'none';
-  }
-  document.getElementById(tabid).style.display = 'block';
-}
-</script>
+### Model Architecture
+![Model Architecture](./img/Model%20Architecture(History).png)
+
+### Function Tasks
+![Function Tasks](./img/Function%20Tasks.png)
+
+### Learning Paradigms
+![Learning Paradigms](./img/Learning%20Paradigms.png)
+
+### Learning Mechanism
+![Learning Mechanism](./img/Learning%20Mechanism.png)
+
+### Data Scenario
+![Data Scenario](./img/Data%20Scenario.png)
 
 本仓库旨在系统性归纳和整理人工智能（AI）领域的重要知识点，帮助学习者和研究者快速梳理AI相关概念、方法、模型与应用。本框架图以思维导图的方式展示了AI的主要知识结构，涵盖了从传统机器学习到深度学习、学习范式、学习机制及数据场景等多个维度。
 
